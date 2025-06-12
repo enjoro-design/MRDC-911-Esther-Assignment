@@ -1,2 +1,4 @@
 # MRDC 911 Esther Assignment
+#Summary
+Study Hours by Residency: Urban students tend to have more study hours compared to their rural counterparts, possibly due to better access to resources.  Math Scores by Performance & Gender: Boxplots indicate that male students generally outperform female students in mathematics across all performance categories.  Internet Access Association: Chi-squared tests suggest a significant relationship between internet access and academic performance, highlighting the importance of digital resources in education.  Extracurriculars vs Performance: Contingency tables reveal that students engaged in sports and arts tend to perform better academically, suggesting the benefits of a balanced educational experience.  Study Hours-Total Score Relationship: Scatter plots show a positive correlation between study hours and total scores, with urban students benefiting more from increased study time.
 
