@@ -1,5 +1,5 @@
 # Project overview and purpose.
-The project is a fundamentals of data science & computational intelligence assignment to Perform exploratory data analysis (EDA) and data preprocessing using R to understand the dataset provided, on kenyan students data with a focus on universities,  to reflect academic, socioeconomic, and behavioral attributes, such as study hours, family income, residency (urban/rural), and mobile money usage.
+The project is a fundamentals of data science & computational intelligence assignment, to Perform exploratory data analysis (EDA) and data preprocessing using R to understand the dataset provided. This is based on kenyan students data with a focus on universities,  to reflect academic, socioeconomic, and behavioral attributes, such as study hours, family income, residency (urban/rural), and mobile money usage.
 
 # Instructions. 
 The project runs on R Studio, make sure that you install these packages if they are not already installed:
