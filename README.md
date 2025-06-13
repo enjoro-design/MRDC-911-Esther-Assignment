@@ -15,6 +15,7 @@ Study Hours-Total Score Relationship: Scatter plots show a positive correlation 
 # Structure of the repository. 
 You will find all the codes used for this project under "codes for each question" folder. There is also a another zipped folder on the same where you can get the raw data. 
 The "visuals" folder contains all plots for better visualization of the data. 
+The PDF summary file contains the detailed answers to all the questions, the findings and observations. 
 
 
 
